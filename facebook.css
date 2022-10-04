@@ -123,16 +123,27 @@
     background: white;
 }
 .languages > a{
-    font-size: 14px;
+    font-size: 13px;
     text-decoration: none;
     color: #a3a0a0;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 .plus-button{
     background:  #f0f2f5;
     outline:none;
     border: #afb0b3;
     width: 25px;
+}.options > a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #a3a0a0;
+    margin-right: 19px;
+    font-family: Helvetica, Arial, sans-serif;
 }
+.footer-hovers:hover{
+    text-decoration: underline;
+}
+
+
 
 
